@@ -2,7 +2,7 @@
 
 Currently:
 - studying CS @ queen's university
-- building The Viral Note
+- building..
 
 I also enjoy:
 - cooking
